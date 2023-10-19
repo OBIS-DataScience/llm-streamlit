@@ -7,3 +7,4 @@ dropbox
 unstructured==0.7.12
 faiss-cpu
 PyPDF2
+
